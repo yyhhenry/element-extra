@@ -1,0 +1,9 @@
+{
+  "extends": "@tsconfig/node18",
+  "include": ["*.config.*"],
+  "compilerOptions": {
+    "composite": true,
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext"
+  }
+}
