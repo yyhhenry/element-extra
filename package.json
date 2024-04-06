@@ -1,7 +1,7 @@
 {
   "name": "@yyhhenry/element-extra",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/yyhhenry/element-extra.git"
@@ -17,12 +17,8 @@
     "types",
     "README.md"
   ],
-  "exports": {
-    ".": {
-      "import": "./dist/lib.es.js",
-      "types": "./types/lib.d.ts"
-    }
-  },
+  "module": "./dist/lib.es.js",
+  "types": "./types/lib.d.ts",
   "scripts": {
     "dev": "vite",
     "build": "run-s build-only types",
