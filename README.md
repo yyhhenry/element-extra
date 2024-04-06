@@ -4,6 +4,12 @@
 
 A simple encapsulation of ElementPlus. Covering some common combination usage scenarios.
 
+## Installation
+
+```bash
+npm install @yyhhenry/element-extra
+```
+
 你仍然需要在你的工作区安装vue和element-plus，另外，不要忘记对CSS进行引入。
 
 You still need to install vue and element-plus in your workspace, and don't forget to import CSS.
