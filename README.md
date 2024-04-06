@@ -1,4 +1,4 @@
-# element-extra
+# @yyhhenry/element-extra
 
 对 ElementPlus 的简单封装。覆盖了一些常用的组合使用场景。
 
