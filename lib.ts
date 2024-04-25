@@ -6,6 +6,7 @@ import LRMenu from './src/components/LRMenu.vue';
 import MiddleLayout from './src/components/MiddleLayout.vue';
 import PageLayout from './src/components/PageLayout.vue';
 import SwitchDark from './src/components/SwitchDark.vue';
+import '@/assets/main.css';
 export {
   CenterLayout,
   FlexBox,
