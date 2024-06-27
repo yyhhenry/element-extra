@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ElRow } from 'element-plus';
 defineSlots<{
-  default: (_: {}) => unknown;
+  default: (_: unknown) => unknown;
 }>();
 </script>
 <template>
